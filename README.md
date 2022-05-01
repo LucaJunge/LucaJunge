@@ -5,9 +5,9 @@ You can click the Preview link to take a look at your changes.
 
 [![Header](./header/header.png "Header")](https://luca-junge.de/)
 
-### 🚧🚧🚧 Site under Construction 🚧🚧🚧
+<p align="center" style="font-size:1.3em;font-weight:bold;">🚧🚧🚧 Site under Construction 🚧🚧🚧</p>
 
-# Hello! 👋
+# Hello World! 👋
 
 My name is Luca Junge and I'm a web developer. Feel free to contact me on [Github](https://github.com/LucaJunge), [Twitter](https://twitter.com/phtgrmmtry) or on my [website](https://luca-junge.de).
 
@@ -17,6 +17,8 @@ I have experience with three.js to display and create various applications.
 # My Setup
 
 For my everyday work, I developed workflows with certain software and tools. Here you can see a list of my most used stuff.
+
+You can also take a look at my [website](https://luca-junge.de) to see the workflows written down.
 
 ## Workflow
 
