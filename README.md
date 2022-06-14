@@ -3,8 +3,6 @@ LucaJunge/LucaJunge is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Header](./header/header.png "Header")](https://luca-junge.de/)
-
 <p align="center" style="font-size:1.3em;font-weight:bold;">🚧🚧🚧 Site under Construction 🚧🚧🚧</p>
 
 # Hello World! 👋
