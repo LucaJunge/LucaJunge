@@ -3,10 +3,9 @@ LucaJunge/LucaJunge is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-🖥️✨ Creating 3D Web Applications & Tools  
+🏛️ Developer for Interactive 3D at the German Maritime Museum in Bremerhaven 📍
 
-🧑🏻‍💻 three.js, Vue.js, WebXR  
-🖨️ 3D Scanning & Printing  
-🏛️ Photogrammetry  
-🧰 Meshlab, Blender, VS Code, Meshroom  
-🎮 Game Development (Godot)  
+🌐 Crafting immersive XR, web, and game experiences to bring cultural heritage to life.
+🎮 Designing engaging 3D apps for exhibits using open-source tools like Blender and Godot.
+📸 Specializing in 3D capture, digitization and visualization for engaging visitor journeys.
+🎯 Dedicated to enhancing visitor engagement and accessibility through innovative, open tech.
